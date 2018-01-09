@@ -7,3 +7,5 @@ What is it?
 2. Run `tweak_pull.sh` first, then `tweak_patch.sh`
 3. Flash `UPDATE.ZIP` which has been patched via custom recovery
 4. Reboot
+
+Steemit @dissgo
